@@ -1,1 +1,2 @@
-"# 동동이하우스" 
+# "DongDongHouse"
+## This is a website introducing Dongdongi.
